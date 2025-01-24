@@ -1,0 +1,42 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Logs and databases
+*.log
+*.ldf
+*.mdf
+
+# Configuration files
+appsettings.*.json
+secrets.json
+
+# Dependency directories
+node_modules/
+packages/
+
+# Publish outputs
+publish/
+out/
+
+# Visual Studio Code files
+.vscode/
+.vscode-test/
+
+# Resharper and Rider
+.idea/
+*.sln.iml
+*.sln.ide/
+
+# Crash reports
+*.crash
+
+# OS-specific files
+.DS_Store
+Thumbs.db
