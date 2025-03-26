@@ -28,6 +28,7 @@ out/
 # Visual Studio Code files
 .vscode/
 .vscode-test/
+.vs/
 
 # Resharper and Rider
 .idea/
